@@ -38,8 +38,7 @@ I am also looking to contribute to open-source projects to improve my skills and
 - ⚡ Fun fact: **I love working out at the gym in my free time, I also love to read Software Engineering books and to study**
 
 # Statistics #
-
-![Sabin Lungu's github stats](https://github-readme-stats.vercel.app/api?username=sabinlungudotcpp&hide=["issues"]&show_icons=true)
+![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Bin-Tazul&count_private=true)
 
 # Social Media #
 

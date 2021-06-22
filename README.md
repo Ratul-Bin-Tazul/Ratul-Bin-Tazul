@@ -1,6 +1,9 @@
 # Background  #
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)(https://github.com/Ratul-Bin-Tazul/) [![forthebadge][![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)(https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)](https://forthebadge.com)
+<!-- [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://github.com/Ratul-Bin-Tazul/) -->
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://github.com/Ratul-Bin-Tazul/)
+![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)
+![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)
 
 
 

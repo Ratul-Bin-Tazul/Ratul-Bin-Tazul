@@ -2,8 +2,8 @@
 
 <!-- [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://github.com/Ratul-Bin-Tazul/) -->
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://github.com/Ratul-Bin-Tazul/)
-![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)
+<!-- ![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)
+![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg) -->
 
 
 
@@ -15,30 +15,30 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 # Skills #
 
-- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=Java&logo=Java&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Kotlin&logo=Kotlin&logoColor=Green&style=for-the-badge">
+- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=Java&logo=Java&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Kotlin&logo=Kotlin&logoColor=Green&style=for-the-badge"> 
 
-- Web Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
+- Front End - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=android&logo=android&logoColor=GREEN&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=js&logo=javascript&logoColor=GREEN&style=for-the-badge">
 
-- Libraries/Frameworks - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=NodeJS&logo=JavaScript&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=ExpressJS&logo=JavaScript&logoColor=Green&style=for-the-badge">
+- Backend - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=PHP&logo=PHP&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=laravel&logo=laravel&logoColor=GREEN&style=for-the-badge">
 
-- Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=SQL&logo=MySQL&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=MongoDB&logo=MongoDB&logoColor=Green&style=for-the-badge">
+- Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=mysql&logo=mysql&logoColor=GREEN&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=firebase&logo=firebase&logoColor=GREEN&style=for-the-badge">
 
-- Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Yellow&label=Travis&logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
+<!-- - Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Yellow&label=Travis&logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
 
 - Software Engineering - **Full Software Development Life Cycle (Waterfall Method)**
 
 - Agile Methodologies - **SCRUM**
 
-- Software Design - **UML Class Diagrams, Sequence Diagrams, Flowcharts**
+- Software Design - **UML Class Diagrams, Sequence Diagrams, Flowcharts** -->
 
 
 
 # Facts #
 
-- 👯 I’m looking to collaborate on: **Open-source projects.**
+- 👯 I’m looking to collaborate on: **Interesting projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
-- ⚡ Fun fact: **I love working out at the gym in my free time, I also love to read Software Engineering books and to study**
+- ⚡ Fun fact: **I love cycling in the weekends and eating out, I also love to read Software Engineering books and to study**
 
 # Statistics #
 ![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Bin-Tazul&count_private=true)

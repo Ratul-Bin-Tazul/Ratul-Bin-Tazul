@@ -7,11 +7,14 @@
 
 
 
-My name is Ratul Bin Tazul, I am originally from Bangladesh. I have completed my graduation in Computer Science and Engineering from BRAC University. Currently working on a few exciting projects. My goal is to develop technical products which helps solve real life problems and affect people's life directly.
+Hi there, I'm Ratul Bin Tazul, Passionate Startup Founder and tech nerd. Have been working with different tech stack for the last 6+ years. Been involved with 7 different startups in 7 different verticals. 
 
-I have over 4 years of experience in native android development and over 1 year of experience in PHP-Laravel backend and api development.
+Since my graduation in Computer Science and Engineering from BRAC University I've been busy building Hishabee, The fastest growing Fintech for the MSME focused Bangladesh. 
+Currently acting as the CTO of the company and driving it's technological growth. 
 
-I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
+Get in touch with me if you want to talk about startups/Technical Leadership/Saas Product or any technology in general. 
+
+Would also love to contribute to open-source projects for interpersonal growth.
 
 # Skills #
 

@@ -7,7 +7,7 @@
 
 
 
-Hi there, I'm Ratul Bin Tazul, Passionate Startup Founder and tech nerd. Have been working with different tech stack for the last 6+ years. Been involved with 7 different startups in 7 different verticals. 
+I'm Ratul Bin Tazul, Passionate Startup Founder and tech nerd. Have been working with different tech stack for the last 6+ years. Been involved with 7 different startups in 7 different verticals. 
 
 Since my graduation in Computer Science and Engineering from BRAC University I've been busy building Hishabee, The fastest growing Fintech for the MSME focused Bangladesh. 
 Currently acting as the CTO of the company and driving it's technological growth. 
@@ -36,13 +36,6 @@ Would also love to contribute to open-source projects for interpersonal growth.
 - Software Design - **UML Class Diagrams, Sequence Diagrams, Flowcharts** -->
 
 
-
-# Facts #
-
-- 👯 I’m looking to collaborate on: **Interesting projects.**
-- 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
-- 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
-- ⚡ Fun fact: **I love cycling in the weekends and eating out, I also love to read Software Engineering books and to study**
 
 # Statistics #
 ![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Bin-Tazul&count_private=true)

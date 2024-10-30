@@ -1,47 +1,29 @@
-# Background  #
+<h1 align="center">Hi 👋, I'm Ratul Bin Tazul</h1>
+<h3 align="center">Passionate Startup Founder and tech nerd. Have been working with different tech stack for the last 6+ years. Been involved with 7 different startups in 7 different verticals.</h3>
 
-<!-- [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://github.com/Ratul-Bin-Tazul/) -->
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://github.com/Ratul-Bin-Tazul/)
-<!-- ![forthebadge](https://forthebadge.com/images/badges/certified-cousin-terio.svg)
-![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratul-bin-tazul&label=Profile%20views&color=0e75b6&style=flat" alt="ratul-bin-tazul" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratul-bin-tazul" alt="ratul-bin-tazul" /></a> </p>
 
+- 🔭 I’m currently working on **Hishabee & Crust**
 
-I'm Ratul Bin Tazul, Passionate Startup Founder and tech nerd. Have been working with different tech stack for the last 6+ years. Been involved with 7 different startups in 7 different verticals. 
+- 🌱 I’m currently learning **how to build product leveraging LLM**
 
-Since my graduation in Computer Science and Engineering from BRAC University I've been busy building Hishabee, The fastest growing Fintech for the MSME focused Bangladesh. 
-Currently acting as the CTO of the company and driving it's technological growth. 
+- 💬 Ask me about **startup and building product**
 
-Get in touch with me if you want to talk about startups/Technical Leadership/Saas Product or any technology in general. 
+- 📫 How to reach me **ratul38@gmail.com, ratul@hishabee.io**
 
-Would also love to contribute to open-source projects for interpersonal growth.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ratul-tazul-1ba036125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratul-tazul-1ba036125" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6739012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6739012" height="30" width="40" /></a>
+</p>
 
-<!--
-# Skills #
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=Java&logo=Java&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Kotlin&logo=Kotlin&logoColor=Green&style=for-the-badge"> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratul-bin-tazul&show_icons=true&locale=en&layout=compact" alt="ratul-bin-tazul" /></p>
 
-- Front End - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=android&logo=android&logoColor=GREEN&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=js&logo=javascript&logoColor=GREEN&style=for-the-badge">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratul-bin-tazul&show_icons=true&locale=en" alt="ratul-bin-tazul" /></p>
 
-- Backend - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=PHP&logo=PHP&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=laravel&logo=laravel&logoColor=GREEN&style=for-the-badge">
-
-- Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=mysql&logo=mysql&logoColor=GREEN&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=GREEN&label=firebase&logo=firebase&logoColor=GREEN&style=for-the-badge">
-
- - Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Yellow&label=Travis&logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
-
-- Software Engineering - **Full Software Development Life Cycle (Waterfall Method)**
-
-- Agile Methodologies - **SCRUM**
-
-- Software Design - **UML Class Diagrams, Sequence Diagrams, Flowcharts** -->
-
-
-
-# Statistics #
-![Ratul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratul-Bin-Tazul&count_private=true)
-
-# Social Media #
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ratul-Bin-Tazu)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-tazul-1ba036125/)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&labelColor=orange&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6739012/ratul-bin-tazul?tab=profile)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratul-bin-tazul&" alt="ratul-bin-tazul" /></p>
